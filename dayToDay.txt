@@ -3,3 +3,4 @@ kynning áfanga frá kennara. Sturtað yfir man uplýsinga um:
 *rasperyPY
 *TexMaker
 *resistors
+aukalega far byrjað að fikta með rasberyPy umhverfið.
