@@ -1,0 +1,5 @@
+dagur 1:
+kynning áfanga frá kennara. Sturtað yfir man uplýsinga um:
+*rasperyPY
+*TexMaker
+*resistors
